@@ -6,5 +6,5 @@ To install, source this in powershell:
 
 	powershell install.ps1
 
-All thanks to @Mystagogue for putting this together.
+All thanks to [@Mystagogue](https://github.com/Mystagogue) for putting this together.
 
